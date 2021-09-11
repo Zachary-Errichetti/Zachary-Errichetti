@@ -1,8 +1,9 @@
-- 👋 Call me @Zachary-Errichetti--
+👋 Call me @Zachary-Errichetti--
 
-- My goal is to help businesses make the right data-driven decisions, 
-- empower their communications with data visualization, 
-- and be ever more ready to address the challenges of a rapidly changing global economy.
+My goals:
+- Help businesses make the right data-driven decisions 
+- Empower their communications with data visualization
+- Be ever more ready to address the challenges of a rapidly changing global economy
 
 I currently manage a team of data analysts for Bloomberg LP’s London-based EMEA Alternative Investments Data team.
 
