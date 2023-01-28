@@ -1,4 +1,4 @@
-👋 Call me @Zachary-Errichetti--
+👋 Call me @Zach--
 
 My goals:
 - Help businesses make the right data-driven decisions 
