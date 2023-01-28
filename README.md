@@ -5,7 +5,13 @@ My goals:
 - Empower their communications with data visualization
 - Be ever more ready to address the challenges of a rapidly changing global economy
 
-I currently manage a team of data analysts for Bloomberg LP’s London-based EMEA Alternative Investments Data team.
+Currently: Data Product Manager for Bloomberg’s suite of alternative fund data solutions, providing unparalleled transparency into hedge fund and private equity fund markets, and supporting the framework for our clients to make smarter, faster, and more informed financial decisions.
+
+Leading a diverse team of data scientists, analysts, and subject matter experts; facilitating the growth and development of new talent and experienced professionals.
+
+Providing guidance on alternative investments, the asset management industry, and the ways in which our clients consume data to support their business.
+
+Advocate for data visualization and business intelligence, mentoring others on their technical upskilling. Author of Bloomberg’s Hedge Fund and Private Equity Chartbooks.
 
 “He who likes cherries, learns to climb”
 
